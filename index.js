@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Nhấn vào hộp quà bên dưới để thấy điều bất ngờ nha " //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Nhấn vào hộp quà bên dưới nha " //Lời mở đầu cho bức thư
 const mainContentLetter = "Happy birthday Linh, chúc em sinh nhật vui vẻ, học thật tốt, mãi vui vẻ, yêu đời và cười thật nhiều. Gặt hái được nhiều thành công trong cuộc sống nha." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
